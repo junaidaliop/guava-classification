@@ -1,0 +1,15 @@
+Confusion Matrix:
+[[308   0   0]
+ [  0 260   2]
+ [  0   1 184]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+  Anthracnose       1.00      1.00      1.00       308
+    Fruit Fly       1.00      0.99      0.99       262
+Healthy Guava       0.99      0.99      0.99       185
+
+     accuracy                           1.00       755
+    macro avg       1.00      1.00      1.00       755
+ weighted avg       1.00      1.00      1.00       755
