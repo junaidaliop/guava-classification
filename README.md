@@ -75,6 +75,17 @@ Healthy Guava       1.00      0.99      0.99        94
 ![Confusion Matrix](outputs/cm.png)
 
 ---
+### Requirements
+We also provide the requirements file in the forms of `guava.yml` and `requirements.txt`.
+
+   ```bash
+   conda env create -f guava.yml
+   ```
+or
+   ```bash
+   pip install -r requirements.txt
+   ```
+---
 
 ## Acknowledgements
 - RDNet_base code was exported from the `timm` library.
