@@ -74,7 +74,8 @@ Healthy Guava       1.00      0.99      0.99        94
 ### Confusion Matrix
 ![Confusion Matrix](outputs/cm.png)
 
-The fine tuned weights for this are available at this [link](https://drive.google.com/file/d/1RNgM-3hzG5NRGezBX93k27xYP0Qfp1kZ/view?usp=sharing)
+The fine-tuned weights for this are available at this [link](https://drive.google.com/file/d/1RNgM-3hzG5NRGezBX93k27xYP0Qfp1kZ/view?usp=sharing).
+
 ---
 ### Requirements
 We also provide the requirements file in the forms of `guava.yml` and `requirements.txt`.
